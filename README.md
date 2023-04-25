@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adams Echwa a.k.a Hacked.
-- 👀 I’m interested in Backend Nodejs, Solidity, Web3.
-- 🌱 I’m currently learning Web3, Reactjs,Nextjs.
-- 💞️ I’m looking to collaborate on Nodejs, Web3 and anything related to web3.
+- 👀 I’m interested in  Mobile Development.
+- 🌱 I’m currently learning Web3, Reactjs.
+- 💞️ I’m looking to collaborate on Dart, Flutter.
 - 📫 How to reach me adamsechwa18@gmail.com 
 
 <!---
